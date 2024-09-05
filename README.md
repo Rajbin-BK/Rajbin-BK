@@ -1,12 +1,14 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <h1 align="center">Hi 👋, I'm Rajbin BK</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate FullStack Developer from Nepal</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+- 🎓 Studying Bachelor in Computer Science at **Algoma University**
 
 - 🌱 I’m currently learning **React Native**
 
