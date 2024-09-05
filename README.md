@@ -34,9 +34,9 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:rajbincad077@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to contact me through <a href="mailto:rajbincad077@gmail.com">email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.linkedin.com/in/rajbinbk/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.linkedin.com/in/rajbinbk/">LinkedIn</a>or to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
