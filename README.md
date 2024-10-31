@@ -53,6 +53,6 @@ You can hire me as a freelancer on <a href="https://www.linkedin.com/in/rajbinbk
 </table>
 
 ------
-Credits: [Rajbin BK](https://rajbin-portfolio.vercel.app/))
+Credits: [Rajbin BK](https://rajbin-portfolio.vercel.app/)
 
 Last Edited On: 2024-09-05
