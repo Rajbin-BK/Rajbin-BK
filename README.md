@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [Rajbin BK]((https://rajbin-portfolio.vercel.app/)) 
+- 👨‍💻 All of my projects are available at [Rajbin BK](https://rajbin-portfolio.vercel.app/)
 
 - 💬 Ask me about **Javascript , MERN**
 
@@ -53,6 +53,6 @@ You can hire me as a freelancer on <a href="https://www.linkedin.com/in/rajbinbk
 </table>
 
 ------
-Credits: [Rajbin BK](https://github.com/Rajbin-BK)
+Credits: [Rajbin BK](https://rajbin-portfolio.vercel.app/))
 
 Last Edited On: 2024-09-05
